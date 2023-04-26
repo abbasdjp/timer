@@ -1,5 +1,3 @@
-/** @format */
-
 export default class Timer {
   constructor(root) {
     root.innerHTML = Timer.getHTML();
